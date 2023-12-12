@@ -1,0 +1,36 @@
+.image{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/021/517/674/original/illustration-of-night-landscape-over-mountain-range-with-full-moon-vector.jpg');
+   background-size: cover;
+}
+.reset{
+    font-size: 12px;
+   
+    margin-left: 250px;
+}
+strong{
+    color:white;
+}
+.login{
+    color:white;
+}
+
+.colorbtn{
+    background-color: rgb(31, 142, 233);
+}
+.reset{
+    text-decoration: none;
+    color: white;
+}
+.Account{
+    color: white;
+    font-size: 12px;
+
+}
+.link{
+    text-decoration: none;
+    color:white;
+}
+.colorWhite{
+    color: white;
+    font-size: 12px;
+}
